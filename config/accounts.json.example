@@ -1,0 +1,11 @@
+{
+  "accounts": [
+    {
+      "username": "your_tiktok_username_1",
+      "tiktok_user_id": "user_id_here",
+      "access_token": "your_access_token_here",
+      "refresh_token": "your_refresh_token_here",
+      "enabled": true
+    }
+  ]
+}

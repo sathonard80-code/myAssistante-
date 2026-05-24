@@ -1,0 +1,16 @@
+node_modules/
+.env
+.env.local
+.DS_Store
+*.log
+logs/
+src/db/tiktok-bot.db
+videos/
+.vscode/
+dist/
+build/
+.idea/
+*.swp
+*.swo
+*~
+.eslintignore
